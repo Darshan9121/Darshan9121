@@ -1,7 +1,7 @@
 Hi there 👋
 I'm Darshan Hiragar, a Full Stack Developer with expertise in AI/ML and Web Development.
-About Me
 
+About Me
 🔭 Currently working on AI/ML projects and web applications
 🌱 Learning advanced machine learning techniques and MERN stack
 👯 Open to collaborate on AI/ML projects and full-stack web applications
