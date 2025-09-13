@@ -1,5 +1,6 @@
 
-![git version](https://github.com/user-attachments/assets/be1ba23f-f170-49e2-aea6-48b0ec0ac62b)
+![gitversion1](https://github.com/user-attachments/assets/d5925469-a71c-4d6f-8294-33ce9e58d26e)
+
 
 Hi there 👋
 I'm Darshan Hiragar, a Full Stack Developer with expertise in AI/ML and Web Development.
